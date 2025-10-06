@@ -1,4 +1,5 @@
 BÀI THỰC HÀNH 01: ỨNG DỤNG AI TRONG CẤU HÌNH VÀ GIẢI QUYẾT SỰ CỐ
+
 Phần 1: Cấu hình Phần cứng/Phần mềm với Hỗ trợ AI
 Nhiệm vụ 1.1: Tìm hiểu cấu hình phần cứng
 tìm hiểu thông tin về CPU, RAM, và ổ cứng của máy tính đang sử dụng.
